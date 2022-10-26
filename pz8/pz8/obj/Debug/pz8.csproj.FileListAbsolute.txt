@@ -1,0 +1,6 @@
+F:\Костя\pzs\pz8\pz8\bin\Debug\pz8.exe.config
+F:\Костя\pzs\pz8\pz8\bin\Debug\pz8.exe
+F:\Костя\pzs\pz8\pz8\bin\Debug\pz8.pdb
+F:\Костя\pzs\pz8\pz8\obj\Debug\pz8.csprojResolveAssemblyReference.cache
+F:\Костя\pzs\pz8\pz8\obj\Debug\pz8.exe
+F:\Костя\pzs\pz8\pz8\obj\Debug\pz8.pdb

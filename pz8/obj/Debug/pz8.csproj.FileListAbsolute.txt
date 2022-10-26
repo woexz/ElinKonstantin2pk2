@@ -1,0 +1,14 @@
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\obj\Debug\pz8.csprojResolveAssemblyReference.cache
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\bin\Debug\pz8.exe.config
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\bin\Debug\pz8.exe
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\bin\Debug\pz8.pdb
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\obj\Debug\pz8.exe
+C:\Users\elin.ky1685\Documents\SharpDevelop Projects\pz8\obj\Debug\pz8.pdb
+G:\Костя\pzs\pz8\bin\Debug\pz8.exe.config
+G:\Костя\pzs\pz8\bin\Debug\pz8.exe
+G:\Костя\pzs\pz8\bin\Debug\pz8.pdb
+G:\Костя\pzs\pz8\obj\Debug\pz8.csproj.AssemblyReference.cache
+G:\Костя\pzs\pz8\obj\Debug\pz8.csproj.SuggestedBindingRedirects.cache
+G:\Костя\pzs\pz8\obj\Debug\pz8.csproj.CoreCompileInputs.cache
+G:\Костя\pzs\pz8\obj\Debug\pz8.exe
+G:\Костя\pzs\pz8\obj\Debug\pz8.pdb
